@@ -1,0 +1,9 @@
+Game description
+Game controls
+Welcome to our exciting Defender game!Take command of a powerful
+spaceship and protect your world from relentless waves of enemy attackers. 
+Your mission is to Obliterate the threats and save humanoids while safeguarding
+vital structures. Engage in fast paced action and navigate through the landscape 
+exhibiting your strategic prowess and pinpoint accuracy in DEFENSE.
+Use the Arrow keys to navigate the spaceship through the terrain, Spacebar 
+to fire missiles, S to activate the temporal shield and P to pause and unpause.
